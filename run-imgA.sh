@@ -1,6 +1,6 @@
 #!/bin/bash
 while :
 do
-    docker run -d hw3:task1
+    docker run -d img-a:latest
     sleep 5
 done
